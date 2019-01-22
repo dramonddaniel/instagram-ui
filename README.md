@@ -1,8 +1,8 @@
 ## Instagram UI
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/19694636/51562322-77246880-1e81-11e9-9c8a-b768a42b4785.gif" width="50%" />
-  <img src="https://user-images.githubusercontent.com/19694636/51562346-8a373880-1e81-11e9-8f71-ad0af4379d35.gif" width="50%" /> 
+  <img src="https://user-images.githubusercontent.com/19694636/51562322-77246880-1e81-11e9-9c8a-b768a42b4785.gif" width="49%" />
+  <img src="https://user-images.githubusercontent.com/19694636/51562346-8a373880-1e81-11e9-8f71-ad0af4379d35.gif" width="49%" /> 
 </p>
 
 ---
